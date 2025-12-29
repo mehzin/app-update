@@ -2,5 +2,20 @@
   "versionCode": 3,
   "versionName": "1.5",
   "apkUrl": "https://drive.google.com/file/d/1Mb3J56D6Z_w35sqgH8rcHohmHuC5PwQN/view?usp=drivesdk",
-  "changelog": "• Fixed crashes\n• Improved performance\n• Minor UI improvements"
+  "changelog": "•Improved overall app stability and reduced unexpected crashes\n•Optimized app startup time for faster launch
+Fixed UI glitches observed on certain screen sizes
+Enhanced compatibility with the latest Android versions
+Improved performance on low-RAM devices
+Refined animations for smoother transitions
+Fixed minor layout alignment issues across multiple screens
+Improved background task handling to reduce battery usage
+Updated internal libraries for better reliability
+Resolved issues related to notification delivery
+Improved error handling to prevent app freezes
+Enhanced data handling to reduce memory consumption
+Fixed rare bugs reported by users in the previous version
+Improved responsiveness of touch interactions
+Minor visual refinements for a cleaner user experience
+Improved app behavior during orientation changes
+General maintenance updates and internal optimizations"
 }
